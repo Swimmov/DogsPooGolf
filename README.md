@@ -1,5 +1,5 @@
 ## Prototype of a game called “DogsPooGolf”. 
-* If you any time took dog outside and cleaned after - you should understand. *
+* If you any time took dog outside and cleaned after - you should understand *
 ### The Idea: 
 1. Choose the size of your dog 
 2. Choose the breed.
