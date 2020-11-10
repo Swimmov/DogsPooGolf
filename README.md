@@ -8,7 +8,7 @@
 ### The Idea: 
 1. Choose the size of your dog 
 2. Choose the breed.
-3. Fit it with food: 
+3. Feed it with food: 
 - for Morning, 
 - for Evening;
 - extra water (Yes/No); 
