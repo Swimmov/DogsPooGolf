@@ -12,7 +12,8 @@
 - for Morning, 
 - for Evening;
 - extra water (Yes/No); 
-4. When you dog pooped, clean after (don't forget a bag :)) and than throw when you are ready .
+4. Go for a walk.
+5. When you dog pooped, clean after (don't forget a bag :)) and than throw when you are ready .
 
 Distance depends on the set of the food was chosen.
 
