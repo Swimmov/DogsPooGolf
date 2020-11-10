@@ -1,7 +1,6 @@
 ## Prototype of a game called “DogsPooGolf”.
 ### *Console version*
 ### *MySQL Database version `<link>` : <https://github.com/Swimmov/dogspoogolfDB>*
-### *MySQL Database version `<link>` : <https://github.com/Swimmov/dogspoogolfDB>*
 ### *Hibernate JPA version `<link>` : <https://github.com/Swimmov/dogsHibernetJpa>*
 ### *Android Apk version `<link>` : <https://github.com/Swimmov/dogsApk>*
 
