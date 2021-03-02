@@ -2,7 +2,7 @@
 ### *Console version*
 ### *MySQL Database version `<link>` : <https://github.com/Swimmov/dogspoogolfDB>*
 ### *Hibernate JPA version `<link>` : <https://github.com/Swimmov/dogsHibernetJpa>*
-### *Android Apk version `<link>` : <https://github.com/Swimmov/dogsApk>*
+### *Android Apk and Google Play version `<link>` : <https://github.com/Swimmov/dogsApk>*
 
 *If you any time took dog outside and cleaned after - you should understand*
 ### The Idea: 
